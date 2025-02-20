@@ -21,5 +21,6 @@ pip install -r requirements.txt
 ```
 ```bash
 source venv/bin/activate
-python script.py
+python consumer.py
+python producer.py
 ```
