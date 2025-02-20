@@ -9,8 +9,9 @@
 ```bash
 cd /opt/kafka
 ```
+# Documentation
 
-https://hub.docker.com/r/apache/kafka
+[Apache Kafka sur dockerhub](https://hub.docker.com/r/apache/kafka)
 
 # Creation d'un environnement virtuel
 ```bash
